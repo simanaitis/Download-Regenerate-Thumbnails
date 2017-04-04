@@ -1,6 +1,6 @@
 {
   "name": "simanaitis/regenerate-thumbnails",
-  "description": "Customise WordPress with powerful, professional and intuitive fields",
+  "description": "Regenerate thumbnails, plugin usefull after registring new image dimensions",
   "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
   "license": "GPLv2 or later",
   "authors": [
