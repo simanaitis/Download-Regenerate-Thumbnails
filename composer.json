@@ -1,0 +1,16 @@
+{
+  "name": "Regenerate Thumbnails",
+  "description": "Customise WordPress with powerful, professional and intuitive fields",
+  "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "Alex Mills (Viper007Bond)",
+      "homepage": "http://www.viper007bond.com/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
